@@ -2,9 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdofany&count_bg=%23443DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-####Good Student
-
 </div>
+
+###My Motto
+- Succeed unconditionally
+- Improves ability by working overtime rather than fine hair and narrow mind rather than change of mind
+- Until it can't be done
 
 <div align=center>
  
