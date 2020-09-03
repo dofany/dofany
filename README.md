@@ -4,10 +4,14 @@
 
 </div>
 
+<div align=center>
+
 ### My Motto 
 - Succeed unconditionally
 - Improves ability by working overtime rather than fine hair and narrow mind rather than change of mind
 - Until it can't be done
+
+</div>
 
 <div align=center>
  
