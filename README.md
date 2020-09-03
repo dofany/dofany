@@ -9,6 +9,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dofany)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
+ 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/)](https://www.youtube.com/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/D0fany)](https://www.facebook.com/D0fany) 
