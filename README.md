@@ -8,6 +8,11 @@
 
 <div align=center>
  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dofany})](https://solved.ac/{dofany})
+</div>
+
+<div align=center>
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dofany)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
