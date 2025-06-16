@@ -1,7 +1,7 @@
 
 # KIM DO HWAN 😉
 
-![Dohwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dofany&show_icons=true&theme=radical)
+![Dohwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dofany&show_icons=true&theme=white)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iununa)](https://solved.ac/iununa/)
 
 # 💪Skills
