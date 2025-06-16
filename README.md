@@ -8,7 +8,7 @@
 
 <div align=center>
  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dofany})](https://solved.ac/{dofany})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={iununa})](https://solved.ac/{iununa})
 </div>
 
 <div align=center>
