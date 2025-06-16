@@ -2,13 +2,13 @@
 </div>
 
 <div align=center>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dofany)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dofany)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
-
 <div align=center>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dofany)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dofany)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align=center>
