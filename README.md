@@ -6,10 +6,7 @@
 
 <div align=center>
 
-### My Motto 
-- Succeed unconditionally
-- Improves ability by working overtime rather than fine hair and narrow mind rather than change of mind
-- Until it can't be done
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
