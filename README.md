@@ -40,14 +40,15 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=datagrip&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
  
 # :mailbox_with_mail: Contacts
-[![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/dofany?tab=repositories)](https://github.com/dofany?tab=repositories) 
+[![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/dofany?tab=repositories)](https://github.com/dofany) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/)](https://www.youtube.com/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/D0fany)](https://www.facebook.com/D0fany) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/d0_____8/) 
